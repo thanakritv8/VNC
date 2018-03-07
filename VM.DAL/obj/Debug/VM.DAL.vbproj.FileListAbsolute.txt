@@ -1,0 +1,10 @@
+C:\Users\150229\Downloads\Virtual Monitor\Virtual Monitor\VM.DAL\bin\Debug\VM.DAL.dll
+C:\Users\150229\Downloads\Virtual Monitor\Virtual Monitor\VM.DAL\bin\Debug\VM.DAL.pdb
+C:\Users\150229\Downloads\Virtual Monitor\Virtual Monitor\VM.DAL\bin\Debug\VM.DAL.xml
+C:\Users\150229\Downloads\Virtual Monitor\Virtual Monitor\VM.DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\150229\Downloads\Virtual Monitor\Virtual Monitor\VM.DAL\obj\Debug\VM.DAL.Resources.resources
+C:\Users\150229\Downloads\Virtual Monitor\Virtual Monitor\VM.DAL\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\150229\Downloads\Virtual Monitor\Virtual Monitor\VM.DAL\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\150229\Downloads\Virtual Monitor\Virtual Monitor\VM.DAL\obj\Debug\VM.DAL.dll
+C:\Users\150229\Downloads\Virtual Monitor\Virtual Monitor\VM.DAL\obj\Debug\VM.DAL.xml
+C:\Users\150229\Downloads\Virtual Monitor\Virtual Monitor\VM.DAL\obj\Debug\VM.DAL.pdb
